@@ -19,7 +19,7 @@ curl -X 'POST' \
 
 ### Build Container
 
-`docker build .`
+`docker build -t myapp .`
 `docker images `
 
 ### Run Container 
